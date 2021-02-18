@@ -1,4 +1,10 @@
 # EPS 2020 2 Grupos 05
 
-## Documentação do projeto
-* Utilizando mkdocs para realizar a tarefa de documentar o projeto
+## EQUIPE
+
+|Nome|Matrícula|GitHub|
+|---|---|---|
+|Victor Hugo Dias Coelho| 160019401|@victorhdcoelho|
+|Fabiana Luiza Vasconcelos Pfeilsticker Ribas|160005736|@FabianaRibas|
+|Ana Carolina Carvalho da Silva|190063441|@anacarolcs|
+|Leticia Meneses Bandeira da Silva|160131936|@mbslet|
