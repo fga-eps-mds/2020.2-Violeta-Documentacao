@@ -1,0 +1,4 @@
+site_name: EPS_2020_G5 
+theme: readthedocs
+nav:
+    - Home: index.md
