@@ -11,3 +11,6 @@ nav:
         - "02/03/2021": "dailies/02-03-2021.md"
         - "03/03/2021": "dailies/03-03-2021.md"
         - "04/03/2021": "dailies/04-03-2021.md"
+
+extra_css:
+  - "style/home.css"
