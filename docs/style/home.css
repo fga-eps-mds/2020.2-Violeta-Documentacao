@@ -57,7 +57,7 @@ thead{
 	height: 100px;
 }
 
-:root{
+:root>*{
 	--md-primary-fg-color: #8C5D98; 
 	--md-default-fg-color--lightest: #8C5D98;
 	--md-footer-bg-color: #9F74AA;
