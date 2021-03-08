@@ -24,5 +24,5 @@
 <div class="hover11"><figure><img alt="6" src="img/phe.jpg"><span>Philipe</span></figure></div>
 <div class="hover11"><figure><img alt="7" src="img/pedro.jpg"><span>Pedro</span></figure></div>
 <div class="hover11"><figure><img alt="8" src="img/none.jpg"><span>Iago</span></figure></div>
-<div class="hover11"><figure><img alt="9" src="img/none.jpg"><span>Mateus</span></figure></div>
+<div class="hover11"><figure><img alt="9" src="img/mateus.jpg"><span>Mateus</span></figure></div>
 </div>
