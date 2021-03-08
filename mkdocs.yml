@@ -4,6 +4,7 @@ theme:
 nav:
     - Home: index.md
     - Documentos:
+      - "Documento de arquitetura": "doc_arquitetura.md"
       - "BD documentação": "diagrama_de_relacionamento_bd.md"
     - Reuniões:
         - "07/02/2021": "Reunião dia 07-02-2021.md"
