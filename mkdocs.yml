@@ -4,23 +4,28 @@ theme:
 nav:
     - Home: index.md
     - Documentos:
-      - "Documento de arquitetura": "doc_arquitetura.md"
-      - "BD documentação": "diagrama_de_relacionamento_bd.md"
+      - "Documento de arquitetura": "Projeto/doc_arquitetura.md"
+      - "BD documentação": "Projeto/diagrama_de_relacionamento_bd.md"
+      - "Documento de definição de medição": "Gerencia/documentacao/metododecontagem.md"
     - Reuniões:
-        - "07/02/2021": "Reunião dia 07-02-2021.md"
-        - "01/03/2021": "dailies/01-03-2021.md"
-        - "02/03/2021": "dailies/02-03-2021.md"
-        - "03/03/2021": "dailies/03-03-2021.md"
-        - "04/03/2021": "dailies/04-03-2021.md"
-        - "05/03/2021": "dailies/05-03-2021.md"
-        - "06/03/2021": "dailies/06-03-2021.md"
-        - "07/03/2021": "dailies/07-03-2021.md"
-        - "08/03/2021": "dailies/08-03-2021.md"
-        - "09/03/2021": "dailies/09-03-2021.md"
-        - "10/03/2021": "dailies/10-03-2021.md"
-        - "11/03/2021": "dailies/11-03-2021.md"
-        - "12/03/2021": "dailies/12-03-2021.md"
-        - "13/03/2021": "dailies/13-03-2021.md"
+        - "Aprensentação do time - 07/02/2021": "Gerencia/Reunião dia 07-02-2021.md"
+        
+        - Dailies:
+          - "01/03/2021": "Gerencia/dailies/01-03-2021.md"
+          - "02/03/2021": "Gerencia/dailies/02-03-2021.md"
+          - "03/03/2021": "Gerencia/dailies/03-03-2021.md"
+          - "04/03/2021": "Gerencia/dailies/04-03-2021.md"
+          - "05/03/2021": "Gerencia/dailies/05-03-2021.md"
+          - "06/03/2021": "Gerencia/dailies/06-03-2021.md"
+          - "07/03/2021": "Gerencia/dailies/07-03-2021.md"
+          - "08/03/2021": "Gerencia/dailies/08-03-2021.md"
+          - "09/03/2021": "Gerencia/dailies/09-03-2021.md"
+          - "10/03/2021": "Gerencia/dailies/10-03-2021.md"
+          - "11/03/2021": "Gerencia/dailies/11-03-2021.md"
+          - "12/03/2021": "Gerencia/dailies/12-03-2021.md"
+          - "13/03/2021": "Gerencia/dailies/13-03-2021.md"
+    - Sprints:
+        - "Sprint 0": "Gerencia/sprints/sprint-0/planning_sprint0" 
 
 extra_css:
   - "style/home.css"

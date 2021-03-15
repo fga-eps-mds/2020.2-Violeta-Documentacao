@@ -3,6 +3,12 @@ title: Reunião dia 07/02/2021
 tags: []
 ---
 
+### Histórico da Revisão
+| Data | Versão | Descrição | Autor |
+|---|---|---|---|
+| 07/02/2021| 1.0 |Criação do documento | Victor Hugo Dias |
+| 14/03/2021| 1.1 |Pequenos ajustes, histórico de revisão, reorganização das pastas | Ana Carolina Carvalho |
+
 # Pautas
 
 - [X] Organização do time de EPS: [video da organização]()
