@@ -6,7 +6,7 @@ nav:
     - Documentos:
       - "Documento de arquitetura": "Projeto/doc_arquitetura.md"
       - "BD documentação": "Projeto/diagrama_de_relacionamento_bd.md"
-      - "Documento de definição de medição": "Gerencia/documentacao/metododecontagem.md"
+        # - "Documento de definição de medição": "Gerencia/documentacao/metododecontagem.md"
     - Reuniões:
         - "Aprensentação do time - 07/02/2021": "Gerencia/Reunião dia 07-02-2021.md"
         
