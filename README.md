@@ -3,7 +3,7 @@
 ## Para utilizar framework de documentação
 
 ## Requisitos
-1. mkdocks
+1. mkdocs
 2. mkdocs-material
 
 obs: Instalar pelo pip versão do python 3.7 ou +;

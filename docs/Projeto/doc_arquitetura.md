@@ -48,7 +48,7 @@
 ## 1.5 Visao Geral
 
 ## 2 Representação Arquitetural
-![arquitetura](img/diagrama_de_arquitetura.png)
+![arquitetura](../img/diagrama_de_arquitetura.png)
 
 ## 2.1 Framework ReactJs
 

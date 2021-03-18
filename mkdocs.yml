@@ -17,6 +17,7 @@ nav:
         - "Revisão técnica, negócio e UX": "Gerencia/documentacao/Lean-inception/revisao.md"
         - "Sequenciador": "Gerencia/documentacao/Lean-inception/sequenciador.md"
         - "Canvas MVP": "Gerencia/documentacao/Lean-inception/mvpcanvas.md"
+        # - "Documento de definição de medição": "Gerencia/documentacao/metododecontagem.md"
     - Reuniões:
         - "Aprensentação do time - 07/02/2021": "Gerencia/Reunião dia 07-02-2021.md"
         
@@ -35,6 +36,9 @@ nav:
           - "12/03/2021": "Gerencia/dailies/12-03-2021.md"
           - "13/03/2021": "Gerencia/dailies/13-03-2021.md"
           - "14/03/2021": "Gerencia/dailies/14-03-2021.md"
+          - "15/03/2021": "Gerencia/dailies/15-03-2021.md"
+          - "16/03/2021": "Gerencia/dailies/16-03-2021.md"
+          - "17/03/2021": "Gerencia/dailies/17-03-2021.md"
     - Sprints:
         - "Sprint 0": "Gerencia/sprints/sprint-0/planning_sprint0" 
 
