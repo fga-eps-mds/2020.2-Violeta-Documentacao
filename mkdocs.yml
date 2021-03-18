@@ -14,6 +14,9 @@ nav:
         - "Persona": "Gerencia/documentacao/Lean-inception/persona.md"
         - "Jornada": "Gerencia/documentacao/Lean-inception/jornada.md"
         - "Brainstoming de feature": "Gerencia/documentacao/Lean-inception/brainstorming.md"
+        - "Revisão técnica, negócio e UX": "Gerencia/documentacao/Lean-inception/revisao.md"
+        - "Sequenciador": "Gerencia/documentacao/Lean-inception/sequenciador.md"
+        - "Canvas MVP": "Gerencia/documentacao/Lean-inception/mvpcanvas.md"
     - Reuniões:
         - "Aprensentação do time - 07/02/2021": "Gerencia/Reunião dia 07-02-2021.md"
         
