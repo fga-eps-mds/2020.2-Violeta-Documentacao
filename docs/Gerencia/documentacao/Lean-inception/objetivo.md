@@ -40,3 +40,4 @@ Fonte: https://www.caroli.org/o-produto-e-nao-e-faz-nao-faz/
 
 ![enaoe](../../../img/enaoe.png)
 
+Durante a dinâmica foram criados dois quadros, um para o time de EPS e outro pra MDS, a fim de que ninguém se sentisse desconfortável ou que alguém não participasse. Após o time box para preenchimento dos post-its, unimos todos os cards no mesmo quadro e o resultado é esse acima.
