@@ -101,10 +101,13 @@ O framework Django é um forma de aplicação web gratuita e de código aberto e
 No Violeta o Django é aplicado através do Django REST framework para viabilizar os micro serviços presentes no projeto por meio de API’s.
 
 ## 2.4 Banco de Dados
+ O banco de dados do projeto é gerenciado pelo PostgreSQL. O PostgreSQL é um sistema de gerenciador de bancos de dados de código aberto com mais de 30 anos de constante desenvolviemento. O desenvolvimento ativo trouxe consigo história e confiança no mercado acarretando assim credibilidade. 
 
 ## 3. Restrições e Metas Arquiteturais
 
 ## 4. Visão Lógica
+### 4.1 Visção Geral
+O Violeta é uma aplicação WebApp composta da linguagem JavaScrip juntamente com o framework Reactjs como forma de implementação do front-end seguido do auxiolio de HTML e CSS para maior fidelidade do prototipo. Na que se refere ao back-end a linguagem python juntamente com framework Django voltado para modelagem de dados. Os dados seram armazenados é gerenciados pelo framework PostgreSQL. O PostgreSQL possibilida que depoimentos e as arvores de decisão seão salvas de forma pratica e eficiente.
 
 ## 5. Visão de Implementação
 
