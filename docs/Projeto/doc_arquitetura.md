@@ -6,6 +6,7 @@
 |---|---|---|---|
 |08/03/2021|0.1|Adicionado template do documento| Victor |
 |18/03/2021|0.2||Philipe Serafim|
+|19/03/2021|0.3|Adicionadas informações no tópico API|Iago de Andrade|
 
 
 
@@ -82,16 +83,23 @@ A arquitetura do Violeta é composta por cinco microsserviços que são executad
 Desse modo, os serviços são executados isolados evitando comportamentos inesperados, como por exemplo, serviços acessando recursos que não deveria. 
 
 ## 2.1 API
+![api](../img/API.png)
+Os microsserviços do backend utilizam Django com o REST framework para comunicação com o banco de dados PostgreSQL e com o frontend, o qual, por sua vez, funciona com o ReactJS. O diagrama acima resume a comunicação entre essas tecnologias.
 
 ### 2.1.1 Frontend
+Microsserviço que utiliza ReactJS para exibir as páginas web dos outros microsserviços do backend. É responsável por implementar a camada de visão do projeto.
 
 ### 2.1.2 Questionário
+Contém todos os dados pertinentes ao questionário e também faz a camada de controle com comandos para manipulação do banco de dados PostgreSQL implementado por meio do REST framework do Django.
 
 ### 2.1.3 Depoimentos
+Responsável por salvar e manipular os dados dos depoimentos no banco de dados PostgreSQL com a utilização do Django REST framework.
 
 ### 2.1.4 Frases
+Contém um banco de dados PostgreSQL com as frases motivacionais que aparecem ao longo da página do Violeta.
 
 ### 2.1.5 Autenticador
+Microsserviço de autenticação responsável por validar os usuários gerando token de acesso.
 
 ## 2.2 Framework ReactJs
 É um framework de código aberto voltado para a aplicação de criação de páginas web. A mesma se utiliza de HTML, CSS e JavaScript para ser aplicada. Por meio destes é possível desenvolver interfaces divididas em componentes reutilizáveis. No Violeta essa tecnologia é aplicada seguindo um layout de landing Page.
@@ -106,7 +114,7 @@ No Violeta o Django é aplicado através do Django REST framework para viabiliza
 ## 3. Restrições e Metas Arquiteturais
 
 ## 4. Visão Lógica
-### 4.1 Visção Geral
+### 4.1 Visão Geral
 O Violeta é uma aplicação WebApp composta da linguagem JavaScrip juntamente com o framework Reactjs como forma de implementação do front-end seguido do auxiolio de HTML e CSS para maior fidelidade do prototipo. Na que se refere ao back-end a linguagem python juntamente com framework Django voltado para modelagem de dados. Os dados seram armazenados é gerenciados pelo framework PostgreSQL. O PostgreSQL possibilida que depoimentos e as arvores de decisão seão salvas de forma pratica e eficiente.
 
 ## 5. Visão de Implementação
