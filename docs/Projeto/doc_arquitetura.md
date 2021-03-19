@@ -59,6 +59,9 @@ Este documento disponibiliza uma visão arquitetural do sistema, usando algumas 
 Por meio deste documento, será possível entender o funcionamento do sistema do aplicativo web Violeta, bem como a metodologia do seu desenvolvimento. Desse modo, será possível ter uma compreensão da arquitetura do projeto.
 
 ## 1.3 Definições, Acrônimos e Abreviações
+- UnB: Universidade de Brasília
+- FGA: Faculdade do Gama - Campus da Universidade de Brasília
+- API: Application Programming Interface (Interface de Programação de Aplicativos)
 
 ## 1.4 Referências
 
@@ -90,9 +93,12 @@ Desse modo, os serviços são executados isolados evitando comportamentos inespe
 
 ### 2.1.5 Autenticador
 
-## 2.2 Framework ReactJs   
+## 2.2 Framework ReactJs
+É um framework de código aberto voltado para a aplicação de criação de páginas web. A mesma se utiliza de HTML, CSS e JavaScript para ser aplicada. Por meio destes é possível desenvolver interfaces divididas em componentes reutilizáveis. No Violeta essa tecnologia é aplicada seguindo um layout de landing Page.
 
 ## 2.3 Framework Django
+O framework Django é um forma de aplicação web gratuita e de código aberto escrito em Python. Seguindo o princípio DRY (Don't Repeat Yourself). Permitindo assim otimizar ainda mais a fase de desenvolvimento.
+No Violeta o Django é aplicado através do Django REST framework para viabilizar os micro serviços presentes no projeto por meio de API’s.
 
 ## 2.4 Banco de Dados
 
