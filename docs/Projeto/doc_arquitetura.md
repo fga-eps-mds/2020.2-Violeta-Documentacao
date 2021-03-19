@@ -6,7 +6,7 @@
 |---|---|---|---|
 |08/03/2021|0.1|Adicionado template do documento| Victor |
 |18/03/2021|0.2||Philipe Serafim|
-|19/03/2021|0.3|Adicionado visão de implementação| Mateus M.
+|19/03/2021|0.3|Adicionado visão de implementação| Mateus M.|
 
 
 
