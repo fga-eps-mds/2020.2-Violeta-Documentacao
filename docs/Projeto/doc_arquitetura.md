@@ -6,9 +6,10 @@
 |---|---|---|---|
 |08/03/2021|0.1|Adicionado template do documento| Victor |
 |18/03/2021|0.2||Philipe Serafim|
-|19/03/2021|0.3|Adicionadas informações no tópico API|Iago de Andrade|
-|19/03/2021|0.4|Adicionado visão de implementação| Mateus M.|
-|19/03/2021|0.5|Restrições e metas arquiteturais| Wesley Santos|
+|18/03/2021|0.3|Adicionado conceitose siglas|Pedro Henrique|
+|19/03/2021|0.4|Adicionadas informações no tópico API|Iago de Andrade|
+|19/03/2021|0.5|Adicionado visão de implementação| Mateus M.|
+|19/03/2021|0.6|Restrições e metas arquiteturais| Wesley Santos|
 
 
 
