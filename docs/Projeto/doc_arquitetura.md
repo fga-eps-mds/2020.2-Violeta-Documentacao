@@ -5,11 +5,12 @@
 |Data|Versão|Descrição|Autor(es)|
 |---|---|---|---|
 |08/03/2021|0.1|Adicionado template do documento| Victor |
-|18/03/2021|0.2||Philipe Serafim|
+|18/03/2021|0.2|Adicionado Objetivo, Escopo e Representação Arquitetural|Philipe Serafim|
 |18/03/2021|0.3|Adicionado conceitose siglas|Pedro Henrique|
 |19/03/2021|0.4|Adicionadas informações no tópico API|Iago de Andrade|
 |19/03/2021|0.5|Adicionado visão de implementação| Mateus M.|
 |19/03/2021|0.6|Restrições e metas arquiteturais| Wesley Santos|
+|20/03/2021|1.0|Adicionado Referências e links faltantes do sumário| Philipe Serafim|
 
 
 
@@ -48,6 +49,10 @@
 
 [3. Restrições e Metas Arquiteturais](#3.restricoes)   
 
+[3.1 Metas](#3.1.metas)
+
+[3.2 Restrições](3.2.restricoes)
+
 [4. Visão Lógica](#4.visaologica)   
 
 [5. Visão de Implementação](#5.visaoimplementacao)   
@@ -63,11 +68,20 @@ Este documento disponibiliza uma visão arquitetural do sistema, usando algumas 
 Por meio deste documento, será possível entender o funcionamento do sistema do aplicativo web Violeta, bem como a metodologia do seu desenvolvimento. Desse modo, será possível ter uma compreensão da arquitetura do projeto.
 
 ## 1.3 Definições, Acrônimos e Abreviações <a name = "1.3.definicao"></a>
-- UnB: Universidade de Brasília
-- FGA: Faculdade do Gama - Campus da Universidade de Brasília
 - API: Application Programming Interface (Interface de Programação de Aplicativos)
+- DRY: Don't Repeat Yourself
+- FGA: Faculdade do Gama - Campus da Universidade de Brasília
+- MVC: Model-View-Controller
+- UnB: Universidade de Brasília
+- WEB: World Wide Web
 
 ## 1.4 Referências  <a name = "1.4.referencias"></a>
+- ReactJS: <a href="https://reactjs.org/tutorial/tutorial.html">Tutorial: Intro to React</a>. Acesso em: 18 de março de 2021.
+- Django: <a href="https://www.django-rest-framework.org/">Django REST framework</a>. Acesso em: 19 de março de 2021.
+- Django: <a href="https://docs.djangoproject.com/en/2.2/topics/db/models/">Models</a>. Acesso em: 19 de março de 2021.
+- PostgreSQL: <a href="https://www.postgresql.org/docs/online-resources/">Tutorials & Other Resources</a>. Acesso em: 19 de março de 2021.
+- JavaScript: <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JavaScript Tutoriais</a>. Acesso em: 19 de março de 2021.
+- VALENTE, M. T. <a href="https://engsoftmoderna.info/cap7.html">Engenharia de Software Moderna</a>. Acesso em: 19 de março de 2021.
 
 ## 1.5 Visão Geral <a name = "1.5.visaogeral"></a>
 |**Tópico**|**Definição**|
@@ -81,12 +95,15 @@ Por meio deste documento, será possível entender o funcionamento do sistema do
 
 ## 2 Representação Arquitetural <a name = "2.representacao"></a>
 A arquitetura do Violeta é composta por cinco microsserviços que são executados em contêineres individuais através do Docker. Os microsserviços são divididos em dois grupos,  backend e frontend, que comunicam-se através de rotas http.
+
 ![arquitetura](../img/diagrama_de_arquitetura.png)
 
 Desse modo, os serviços são executados isolados evitando comportamentos inesperados, como por exemplo, serviços acessando recursos que não deveria. 
 
 ## 2.1 API <a name = "2.1.api"></a>
+
 ![api](../img/API.png)
+
 Os microsserviços do backend utilizam Django com o REST framework para comunicação com o banco de dados PostgreSQL e com o frontend, o qual, por sua vez, funciona com o ReactJS. O diagrama acima resume a comunicação entre essas tecnologias.
 
 ### 2.1.1 Frontend <a name = "2.1.1.frontend"></a>
@@ -108,7 +125,7 @@ Microsserviço de autenticação responsável por validar os usuários gerando t
 
 ## 2.3 Framework Django <a name = "2.3.frameworkdjango"></a>
 O framework Django é um forma de aplicação web gratuita e de código aberto escrito em Python. Seguindo o princípio DRY (Don't Repeat Yourself). Permitindo assim otimizar ainda mais a fase de desenvolvimento.
-No Violeta o Django é aplicado através do Django REST framework para viabilizar os micro serviços presentes no projeto por meio de API’s.
+No Violeta o Django é aplicado através do Django REST framework para viabilizar os microsserviços presentes no projeto por meio de API’s.
 
 ## 2.4 Banco de Dados <a name = "2.4.bancodedados"></a>
 O banco de dados do projeto é gerenciado pelo PostgreSQL. O PostgreSQL é um sistema de gerenciador de bancos de dados de código aberto com mais de 30 anos de constante desenvolviemento. O desenvolvimento ativo trouxe consigo história e confiança no mercado acarretando assim credibilidade. 
@@ -116,10 +133,10 @@ O banco de dados do projeto é gerenciado pelo PostgreSQL. O PostgreSQL é um si
 ## 3. Restrições e Metas Arquiteturais <a name = "3.restricoes"></a>
  A partir da Lean-inception feita pela equipe, foi tomado o levantamento de restrições para o desenvolvimento do software e o usuário destino. Sendo assim, para melhor atender os requisitos definidos e utilizar das melhores tecnologias disponíveis, foram selecionadas as metas e restrições de arquitetura.
  
-### 3.1 Metas
+### 3.1 Metas <a name="3.1.metas"></a>
  As metas arquiteturais definem como o sistema precisa responder às mudanças ao longo do tempo, direcionadas pelos requisitos de software. Por tanto, a usabilidade da aplicação estará presente para o cumprimento de seu objetivo, acessada pelos navegadores. A eficiência da WebApp irá conceder os dados e suas informações de forma clara e rápida ao usuário, para que assim possa gerenciar e acompanhar os processos de forma consistente.
 
-### 3.2 Restrições 
+### 3.2 Restrições <a name="3.2.restricoes"></a>
  As restrições do projeto estão relacionadas às ferramentas e tecnologias escolhidas para o desenvolvimento do software.
 
 - **Django:** Web Framework baseada em Python;
