@@ -4,6 +4,7 @@ theme:
 nav:
     - Home: index.md
     - Documentos:
+      - "Documento de setup do projeto": "Gerencia/documentacao/setup.md"
       - "Documento de arquitetura": "Projeto/doc_arquitetura.md"
       - "BD documentação": "Projeto/diagrama_de_relacionamento_bd.md"
       - "Documento de definição de medição": "Gerencia/documentacao/metododecontagem.md"
@@ -18,7 +19,6 @@ nav:
         - "Revisão técnica, negócio e UX": "Gerencia/documentacao/Lean-inception/revisao.md"
         - "Sequenciador": "Gerencia/documentacao/Lean-inception/sequenciador.md"
         - "Canvas MVP": "Gerencia/documentacao/Lean-inception/mvpcanvas.md"
-        # - "Documento de definição de medição": "Gerencia/documentacao/metododecontagem.md"
     - Reuniões:
         - "Aprensentação do time - 07/02/2021": "Gerencia/Reunião dia 07-02-2021.md"
         
