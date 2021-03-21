@@ -4,6 +4,8 @@
 |Data|Versão|Descrição|Autor(es)|
 |---|---|---|---|
 |14/03/2021|0.1| Adicionado eslint/prettier | Philipe Serafim |
+|21/03/2021|0.2| Adicionado Pylint          | Wesley Santos |
+
 <br>
 
 ## Sumário
@@ -69,6 +71,12 @@ Também é possível especificar as regras de estilística através do arquivo d
 ```
 Vale ressaltar que as regras especificadas manualmente podem sobrescrever as utilizadas pelo padrão Eslint-Airbnb, fungindo do padrão escolhido e do objetivo do programa linter.
 
+
+## 2.2 Pylint 
+
+Pylint é um verificador de bugs que auxilia o desenvolvedor a manter a padronização do código, mantê-lo coeso. Seguindo a PEP-8 que são as definições de padrões de desenvolvimento dentro da linguagem Python. Definições como boas práticas de linhas de comando, importações de módulos, classes, arquitetura de projetos web, erros de sintaxe, e também a verificação de uma possível refatoração no código. É altamente configurável, tendo programas especiais para controlar seus erros e avisos de dentro do código.
+
+
 ## 3. Padrão de escrita e commits
 
 Foi determinado que o código deveria ser escrito em inglês enquanto os commits deveriam ser escritos em PT-BR e no particípio, como por exemplo:
@@ -84,3 +92,7 @@ Foi determinado que o código deveria ser escrito em inglês enquanto os commits
 * [ESLint](https://eslint.org/docs/user-guide/getting-started) 
 
 * [Prettier](https://prettier.io/docs/en/install.html)
+
+* [Pylint](https://pypi.org/project/pylint/) 
+
+* [PEP](https://www.python.org/dev/peps/pep-0008/) 
