@@ -20,6 +20,8 @@ nav:
         - "Revisão técnica, negócio e UX": "Gerencia/documentacao/Lean-inception/revisao.md"
         - "Sequenciador": "Gerencia/documentacao/Lean-inception/sequenciador.md"
         - "Canvas MVP": "Gerencia/documentacao/Lean-inception/mvpcanvas.md"
+      - Protótipos:
+        - "Protótipo de baixa fidelidade": "Projeto/prototipos/prototipo-baixa-fidelidade.md"
     - Reuniões:
         - "Aprensentação do time - 07/02/2021": "Gerencia/Reunião dia 07-02-2021.md"
         
