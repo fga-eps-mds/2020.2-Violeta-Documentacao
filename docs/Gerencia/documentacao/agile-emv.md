@@ -1,0 +1,72 @@
+### Histórico de reivsão
+
+| Data | Versão | Descrição | Autor(es)|
+| -----|--------|-----------|-----------|
+| 21/03/2021| 0.1 | Criação do Documento| Letícia Meneses|
+
+----
+
+<br/>
+<br/>
+
+# Introdução
+AgileEVM é uma implementação adaptada do EVM que usa os artefatos do Scrum como entradas, usa cálculos EVM tradicionais e é expressa em métricas EVM tradicionais. AgileEVM requer um conjunto mínimo de parâmetros de entrada: o custo real de um projeto, um backlog estimado do produto, um plano de lançamento que fornece informações sobre o número de iterações no lançamento e a velocidade assumida.
+
+<br/>
+
+# Orçamento
+O orçamento total do projeto foi feito com base nos custos de:
+* Um aluno para a Universidade de Brasília
+* Aluguel de um computador para fins de desenvolvimento
+* Internet
+* Energia elétrica gasta nos computadores.
+
+Para um melhor entendimento do orçamento total, a tabela abaixo apresenta os cálculos feitos para essa estimativa.
+
+<br/>
+<br/>
+
+### Custo por aluno
+
+| Custos Anuais | Custos Mensais | Durante o Projeto | Total para nove alunos|
+| ------ |------| ------| ------|
+| R$ 15.000,00 | R$ 1.250,00 | R$ 3.750,00 | R$ 33.750 |
+
+<br/>
+<br/>
+
+### Custo do aluguel de computadores
+
+Core i7
+
+| Custo Mensal | Durante o Projeto | Total para os nove integrantes |
+| -----| -----| -----|
+| R$ 435,00 | R$ 1.305,00 | R$ 11.745,00|
+
+<br/>
+<br/>
+
+### Custo de Internet
+
+| Custo Médio Mensal | Durante o Projeto | Total para os nove integrantes |
+| --- | --- | ---- | 
+| R$ 114,15 | R$ 342,45 | R$ 3.082,05 |
+
+<br/>
+<br/>
+
+### Custo Energia Elétrica
+
+| Custo da energia para um desktop: 1h por dia em 30 dias | Custo por horas médias diárias do time | Durante o projeto | Total para os nove integrantes |
+| ---- | ---- | ---- |----|
+| R$ 29,55 | R$ 119,97 | R$ 359,9 | R$ 3.239,1 |
+
+<br/>
+<br/>
+
+### Orçamento Total
+
+
+| Valor total do projeto|
+|----|
+|R$ 51.816,15|
