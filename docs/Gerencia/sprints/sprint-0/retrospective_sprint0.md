@@ -9,8 +9,11 @@
 
 **Data de término:** 21/02/2021
 
-# **Planejamento**
-Essa sprint inicial do projeto é responsável por definir pontos muito importantes para um planejamento e gerenciamento do projeto durantes esses meses.
+## Resultados da sprint 0
+
+Todas as atividades propostas para a Sprint 0 foram realizadas. Não levando nenhum débito técnico para a próxima. O time tem se mostrado comprometido e animado com o início do projeto, tivemos alguns problemas na definição do tema, mas prontamente resolvido e não afetou no andamento do planejamento. 
+Foi uma sprint muito voltada a metodologia, ainda mais porque os membros de MDS nunca tiveram contato antes. 
+De ponto negativo temos que ainda não iniciamos a coleta das dailies do time. Colocamos no planejamento de automatizar a coleta das dailies, é uma tarefa muito repetitiva.  
 
 ## Sprint backlog
 
@@ -47,6 +50,10 @@ Essa sprint inicial do projeto é responsável por definir pontos muito importan
 ## Pareamento
 
 <iframe weidth="100%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSUvF3lwINiA2gmoZeLfAFfI-sgInnqEVf4oq7nkh3joRHfGQgwIc63ij0wCB5oJzGtZirY3eT-hLjK/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+## Quadro de conhecimento 
+
+<iframe weidth="100%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSKpschz_TJPysoXgFRpq3kRT3bp3M_Y1DKFGRfmKh0oU3mXq8YGjwkznJ8cz-LlN4ZiCX0nLGdXBjj/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ## Papéis
