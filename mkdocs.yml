@@ -10,6 +10,7 @@ nav:
       - "Documento de definição de medição": "Gerencia/documentacao/metododecontagem.md"
       - "Folha de estilo": "Projeto/folha_de_estilo.md"
       - "Roadmap" : "Gerencia/documentacao/roadmap.md"
+      - "Identidade visual": "Projeto/identidade-visual.md"
       - Lean Inception:
         - "Agenda e Kick-off": "Gerencia/documentacao/Lean-inception/agenda.md"
         - "Visão do produto": "Gerencia/documentacao/Lean-inception/visao_do_projeto.md"
@@ -20,6 +21,10 @@ nav:
         - "Revisão técnica, negócio e UX": "Gerencia/documentacao/Lean-inception/revisao.md"
         - "Sequenciador": "Gerencia/documentacao/Lean-inception/sequenciador.md"
         - "Canvas MVP": "Gerencia/documentacao/Lean-inception/mvpcanvas.md"
+      - Protótipos:
+        - "Protótipo de baixa fidelidade": "Projeto/prototipos/prototipo-baixa-fidelidade.md"
+        - "Protótipo de média fidelidade": "Projeto/prototipos/prototipo-media-fidelidade.md"
+        - "Protótipo de alta fidelidade": "Projeto/prototipos/prototipo-alta-fidelidade.md"
     - Reuniões:
         - "Aprensentação do time - 07/02/2021": "Gerencia/Reunião dia 07-02-2021.md"
         
