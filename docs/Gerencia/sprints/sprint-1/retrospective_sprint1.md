@@ -66,5 +66,5 @@ De ponto negativo temos que ainda não iniciamos a coleta das dailies do time. E
 - [Iago Sousa](https://github.com/iasousa)
 - [Wesley Santos](https://github.com/wesleysantos00)
 
-**Autor:** [Letícia Meneses](https://github.com/mbslet)
+**Autor:** [Ana Carolina Carvalho](https://github.com/anacarolcs)
 
