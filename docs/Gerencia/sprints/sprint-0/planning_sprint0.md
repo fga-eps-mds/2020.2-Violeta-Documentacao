@@ -15,20 +15,6 @@
 # **Planejamento**
 Essa sprint inicial do projeto é responsável por definir pontos muito importantes para um planejamento e gerenciamento do projeto durantes esses meses.
 
-## Papéis
-
-| Nome                  | Pápel |
-|-----------------------|-------------|
-| Ana Carolina | Scrum Master |
-| Fabiana Ribas | UX/UI |
-| Letícia Meneses | Product Owner |
-| Victor Coelho | DevOps/Arquiteto e Analista de Dados |
-| Iago Andrade | Time de Desenvolvimento |
-| Mateus Moreira | Time de Desenvolvimento |
-| Pedro Lima | Time de Desenvolvimento |
-| Philipe Serafim | Time de Desenvolvimento |
-| Wesley Santos | Time de Desenvolvimento |
-
 ## Sprint backlog
 
 | Issue | Título | Pontuação | Autor(es) |
@@ -62,7 +48,7 @@ Essa sprint inicial do projeto é responsável por definir pontos muito importan
 
 ## Pareamento
 
-<iframe weight="100%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSUvF3lwINiA2gmoZeLfAFfI-sgInnqEVf4oq7nkh3joRHfGQgwIc63ij0wCB5oJzGtZirY3eT-hLjK/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe weidth="100%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSUvF3lwINiA2gmoZeLfAFfI-sgInnqEVf4oq7nkh3joRHfGQgwIc63ij0wCB5oJzGtZirY3eT-hLjK/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ## Papéis
