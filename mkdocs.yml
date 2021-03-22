@@ -43,6 +43,7 @@ nav:
           - "17/03/2021": "Gerencia/dailies/17-03-2021.md"
     - Sprints:
         - "Sprint 0": "Gerencia/sprints/sprint-0/planning_sprint0" 
-
+    - Treinamentos: 
+        - "Treinamento de EPS para MDS": "Gerencia/documentacao/treinamentos.md"
 extra_css:
   - "style/home.css"
