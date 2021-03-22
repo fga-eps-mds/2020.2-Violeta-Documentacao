@@ -2,7 +2,6 @@
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
 | 04/03/2021| 0.0 |Criação do documento | Letícia Meneses |
-| 14/03/2021| 0.1 |Renomeação; documento adicionado ao pages; pequenos ajustes | Ana Carolina Carvalho |
 | 22/03/2021| 0.1 |Ajustes no Sprint Backlog | Ana Carolina Carvalho |
 
 
@@ -21,7 +20,7 @@
 |---|---|---|---|
 |[#5](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/5)| Dojo de Git | 1 | [Letícia Meneses](https://github.com/mbslet), [Fabiana Ribas](https://github.com/FabianaRibas) |
 |[#6](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/6)| Dojo de Docker | 1 | [Victor Coelho](https://github.com/victorhdcoelho) |
-|[12](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/12)| Documento de visão | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
+|[12](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/12)| Documento de visão | - | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
 |[#13](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/13)| Criar product backlog | 1 | [Letícia Meneses](https://github.com/mbslet) |
 |[#16](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/16)| Automatizar daily - Bot no telegram | 1 | [Victor Coelho](https://github.com/victorhdcoelho) |
 |[#19](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/19)| Protótipo de baixa fidelidade | 1 | [Fabiana Ribas](https://github.com/FabianaRibas) |
