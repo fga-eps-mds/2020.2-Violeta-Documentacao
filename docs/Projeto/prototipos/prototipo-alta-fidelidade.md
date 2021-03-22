@@ -5,7 +5,7 @@ A prototipação de um software é a atividade de criação de protótipos de ap
 ### Histórico da Revisão
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
-| 07/03/2021| 0.1 |Criação do protótipo de baixa fidelidade | Fabiana L. V. P. Ribas, Letícia Meneses, Philipe Serafim, Pedro Henrique, Iago de Andrade, Mateus M., Wesley Santos |
+| 07/03/2021| 0.1 |Criação do protótipo de alta fidelidade | Fabiana L. V. P. Ribas, Letícia Meneses, Philipe Serafim, Pedro Henrique, Iago de Andrade, Mateus M., Wesley Santos |
 | 22/03/2021| 0.1 |Criação do documento | Ana Carolina Carvalho |
 
 ## Protótipo de alta fidelidade

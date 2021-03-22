@@ -10,6 +10,7 @@ nav:
       - "Documento de definição de medição": "Gerencia/documentacao/metododecontagem.md"
       - "Folha de estilo": "Projeto/folha_de_estilo.md"
       - "Roadmap" : "Gerencia/documentacao/roadmap.md"
+      - "Identidade visual": "Projeto/identidade-visual.md"
       - Lean Inception:
         - "Agenda e Kick-off": "Gerencia/documentacao/Lean-inception/agenda.md"
         - "Visão do produto": "Gerencia/documentacao/Lean-inception/visao_do_projeto.md"
