@@ -1,0 +1,1 @@
+|[#27](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/27)| Levantamento das violências | 2 | [Wesley Santos](https://github.com/wesleysantos00), [Matheus Moreira](https://github.com/mateus-lm) | debito tecnico - 2 pontos
