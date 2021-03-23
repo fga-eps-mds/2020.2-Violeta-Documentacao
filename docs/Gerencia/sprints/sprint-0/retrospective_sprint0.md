@@ -60,7 +60,7 @@ De ponto negativo temos que ainda não iniciamos a coleta das dailies do time. C
 
 **_Scrum Master_:** [Ana Carolina](https://github.com/anacarolcs)
 
-**_Product Manager_:** [Letícia Meneses](https://github.com/mbslet)
+**_Product Owner_:** [Letícia Meneses](https://github.com/mbslet)
 
 **_Arquiteto_ e _DevOps_** [Victor Coelho](https://github.com/victorhdcoelho)
 
