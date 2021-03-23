@@ -20,6 +20,7 @@ Nessa sprint o desenvolvimento das histórias de usuário serão continuadas, co
 | Issue | Título | Pontuação | Autor(es) |
 |---|---|---|---|
 |[#65](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/65)| Documento de benchmarking | 1 | [Fabiana Ribas](https://github.com/FabianaRibas) |
+|[#77](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/77)| Agile EVM | 1 | [Letícia Meneses](https://github.com/mbslet) |
 |[#56](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/56)| Documento de resultados da Sprint 4 | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
 |[#55](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/55)| Documento de planejamento da Sprint 4 | 1 | [Letícia Meneses](https://github.com/mbslet) |
 
