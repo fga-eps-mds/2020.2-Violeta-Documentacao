@@ -72,3 +72,44 @@ Core i7
 |R$ 51.816,15|
 
 
+<br/>
+
+<br/>
+
+
+# Estimativa de Custos
+
+A tabela abaixo conta todos os dados necessários para a elaboração do Agile EVM, considerando o número de sprints até a Release 1, número de dias por sprint, total de pontos estimados para a R1 e quantos deles foram realizados, e o orçamento toal do projeto levanto em consideração os custos levantados acima.
+
+![Agile-EVM](../../img/agile-evm.png)
+
+
+Abaixo segue a tabela de sigla necessárias para entender todos os cálculos e custos estimados no planilha.
+
+<br/>
+
+- Tabela 1 - Definições e significados das siglas utilizadas na planilha
+
+| Sigla | Definição |
+| ----| ----|
+| BAC | Orçamento total planejado para a Release |
+| L | Duração da Sprint |
+| PS | número total de sprints planejadas para a Release |
+| SD | Data de inicio até chegar na Release |
+| PRP | Pontos planejados para serem feitos na Release |
+| RPC  | Pontos concluidos na Release |
+| APC | Porcentagem real de conclusão da Release |
+| PPC | porcentagem planejada de conclusão |
+| AC | Custo Real | 
+
+- Tabela 2 - Equações de custos necessárias para as estimativas
+
+| Equação | Definição |
+| ---- | ---- |
+| PV =  PPC * BAC | Valor planejado |
+| EV = APC * BAC | valor agregado |
+| CV = EV - AC | variancia de custo |
+| SV = EV - PV | variancia no cronograma |
+| CPI = EV / AC | indice de performance de custo |
+| SPI = EV / PV |  indice de performance do cronograma|
+
