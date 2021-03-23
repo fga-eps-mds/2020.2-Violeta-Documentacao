@@ -21,7 +21,7 @@ O time de MDS conseguiu avançar nesse período o conhecimento técnico. Inclusi
 
 #### Repositório de documentação
 
-| Issue | Título | Pontuação | Autor(es) |
+| Issue | Título | Pontuação | Status |
 |---|---|---|---|
 |[#53](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/53)| Documento de planejamento da sprint 3 | 1 | _Concluído_ |
 |[#54](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/54)| Documento de resultados da sprint 3 | 1 | _Concluído_ |
@@ -29,7 +29,7 @@ O time de MDS conseguiu avançar nesse período o conhecimento técnico. Inclusi
 
 #### Repositório de desenvolvimento
 
-| Issue | Título | Pontuação | Autor(es) |
+| Issue | Título | Pontuação | Status |
 |---|---|---|---|
 |[#24](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/24)| Criar Questionário para responder | 3 | _Concluído_ |
 |[#25](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/25)| Documento de resultados da sprint 3 | 3 | _Não foi feito_ |
