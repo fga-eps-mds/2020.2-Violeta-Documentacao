@@ -12,7 +12,9 @@
 **Data de término:** 28/02/2021
 
 # **Planejamento**
-[TODO]
+
+Essa sprint é responsável por redigir e criar artefatos imortantes para definição de projeto.
+
 
 ## Sprint backlog
 
@@ -33,7 +35,7 @@
 |[#50](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/50)| Documento de resultados da sprint 1 | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
 
 
-<b>Total de pontos planejados: 13</b>
+<b>Total de pontos planejados: 12</b>
 
 ## Pareamento
 
@@ -44,7 +46,7 @@
 
 **_Scrum Master_:** [Ana Carolina](https://github.com/anacarolcs)
 
-**_Product Manager_:** [Letícia Meneses](https://github.com/mbslet)
+**_Product Owner_:** [Letícia Meneses](https://github.com/mbslet)
 
 **_Arquiteto_ e _DevOps_** [Victor Coelho](https://github.com/victorhdcoelho)
 
