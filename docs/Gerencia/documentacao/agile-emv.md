@@ -70,3 +70,5 @@ Core i7
 | Valor total do projeto|
 |----|
 |R$ 51.816,15|
+
+
