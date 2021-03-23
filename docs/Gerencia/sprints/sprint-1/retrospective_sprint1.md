@@ -19,7 +19,7 @@ De ponto negativo temos que ainda não iniciamos a coleta das dailies do time. E
 
 ## Sprint backlog
 
-| Issue | Título | Pontuação | Autor(es) |
+| Issue | Título | Pontuação | Status |
 |---|---|---|---|
 |[#5](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/5)| Dojo de Git | 1 | _Concluído_ |
 |[#6](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/6)| Dojo de Docker | 1 | _Concluído_ |
@@ -52,7 +52,7 @@ De ponto negativo temos que ainda não iniciamos a coleta das dailies do time. E
 
 **_Scrum Master_:** [Ana Carolina](https://github.com/anacarolcs)
 
-**_Product Manager_:** [Letícia Meneses](https://github.com/mbslet)
+**_Product Owner_:** [Letícia Meneses](https://github.com/mbslet)
 
 **_Arquiteto_ e _DevOps_** [Victor Coelho](https://github.com/victorhdcoelho)
 

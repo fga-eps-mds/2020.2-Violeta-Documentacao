@@ -13,6 +13,7 @@
 
 # **Planejamento**
 Nessa sprint o desenvolvimento das histórias de usuário serão iniciadas, com issues de task atribuídas a elas. Deve-se fazer o documento modelo de prototipação para issues relacionadas as telas visuais.
+
 ## Sprint backlog
 
 #### Repositório de documentação
@@ -42,7 +43,7 @@ Nessa sprint o desenvolvimento das histórias de usuário serão iniciadas, com 
 
 **_Scrum Master_:** [Ana Carolina](https://github.com/anacarolcs)
 
-**_Product Manager_:** [Letícia Meneses](https://github.com/mbslet)
+**_Product Owner_:** [Letícia Meneses](https://github.com/mbslet)
 
 **_Arquiteto_ e _DevOps_** [Victor Coelho](https://github.com/victorhdcoelho)
 
@@ -57,4 +58,3 @@ Nessa sprint o desenvolvimento das histórias de usuário serão iniciadas, com 
 - [Wesley Santos](https://github.com/wesleysantos00)
 
 **Autor:** [Letícia Meneses](https://github.com/mbslet)
-
