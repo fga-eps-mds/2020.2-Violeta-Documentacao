@@ -54,6 +54,15 @@ nav:
         - Sprint 0:
           - "Planejamento": "Gerencia/sprints/sprint-0/planning_sprint0.md" 
           - "Resultado": "Gerencia/sprints/sprint-0/retrospective_sprint0.md" 
+        - Sprint 1:
+          - "Planejamento": "Gerencia/sprints/sprint-1/planning_sprint1.md" 
+          - "Resultado": "Gerencia/sprints/sprint-1/retrospective_sprint1.md" 
+        - Sprint 2:
+          - "Planejamento": "Gerencia/sprints/sprint-2/planning_sprint2.md" 
+          - "Resultado": "Gerencia/sprints/sprint-2/retrospective_sprint2.md" 
+        - Sprint 3:
+          - "Planejamento": "Gerencia/sprints/sprint-3/planning_sprint3.md" 
+          - "Resultado": "Gerencia/sprints/sprint-3/retrospective_sprint3.md"
     - Treinamentos: 
         - "Treinamento de EPS para MDS": "Gerencia/documentacao/treinamentos.md"
 extra_css:
