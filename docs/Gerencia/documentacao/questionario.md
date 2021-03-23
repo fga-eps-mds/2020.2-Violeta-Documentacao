@@ -47,8 +47,8 @@ E todas as respostas validaram como útil a abordagem de profissionais psicológ
 Com a validação feita pela comunidade, a elaboração do questionário prosseguiu e assim com ele a Árvore de Decisão que é o ponto chave para ao desenvolvimento. Assim, as ramificações de perguntas e resultados foram elaborados e segue perguntas discretas que não gere um tamanho desconforto ao responder, e todas perguntas tem como base a Lei Maria da Penha.
 As perguntas e ramificações podem ser visualizadas no seguinte documento:
 
-<iframe weidth="200%" height="600" src="https://docs.google.com/document/d/e/2PACX-1vTJEI9b466nc1P59eaFKjESz84tM772r1Al9S0w_H10_LFuO0X0LvihDAFEs5q1RrBhHUcDbdQ6--c2/pub?embedded=true"></iframe>
 
+<iframe weidth="200%" height="600" src="https://docs.google.com/document/d/e/2PACX-1vTJEI9b466nc1P59eaFKjESz84tM772r1Al9S0w_H10_LFuO0X0LvihDAFEs5q1RrBhHUcDbdQ6--c2/pub?embedded=true"></iframe>
 <br/>
 <br/>
 <br/>
