@@ -20,7 +20,7 @@ Algumas dúvidas técnicas foram levantadas por MDS e prontamente respondida por
 
 ## Sprint backlog
 
-| Issue | Título | Pontuação | Autor(es) |
+| Issue | Título | Pontuação | Status |
 |---|---|---|---|
 |[#45](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/45)| Questionário | 1 | _Concluído_ |
 |[#47](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/47)| ROI - Retorno sobre o investimento | 1 | _Não feito_ |
@@ -47,7 +47,7 @@ O quadro de conhecimento permanece o mesmo pois deixamos para verificar se de fa
 
 **_Scrum Master_:** [Ana Carolina](https://github.com/anacarolcs)
 
-**_Product Manager_:** [Letícia Meneses](https://github.com/mbslet)
+**_Product Owner_:** [Letícia Meneses](https://github.com/mbslet)
 
 **_Arquiteto_ e _DevOps_** [Victor Coelho](https://github.com/victorhdcoelho)
 
