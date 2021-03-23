@@ -113,3 +113,9 @@ Abaixo segue a tabela de sigla necessárias para entender todos os cálculos e c
 | CPI = EV / AC | indice de performance de custo |
 | SPI = EV / PV |  indice de performance do cronograma|
 
+<br/>
+<br/>
+
+Documento completo abaixo.
+
+<iframe weidth="200%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwAgC96ionjjLl9JorY3oZZ9QpzvFnSY70JgN7bdcVyYo7K-BWRwhoL-nkE7IFSm21dTafwCCKLCSa/pubhtml?widget=true&amp;headers=false"></iframe>
