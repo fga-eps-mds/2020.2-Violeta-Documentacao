@@ -13,7 +13,7 @@
 
 ## Resultados da sprint 1
 
-Novamente, todas as atividades propostas para a Sprint 0 foram realizadas. Não levando nenhum débito técnico para a próxima. O time ainda permanece motivado e comprometido, nesta sprint começamos a configurar algumas coisas e focamos muito na escrita das histórias de usuário e critério de aceitação. 
+Novamente, todas as atividades propostas para a Sprint 1 foram realizadas. Não levando nenhum débito técnico para a próxima. O time ainda permanece motivado e comprometido, nesta sprint começamos a configurar algumas coisas e focamos muito na escrita das histórias de usuário e critério de aceitação. 
 O documento de visão foi substituído pela visão do produto, artefato abstraído da Lean Inception.
 De ponto negativo temos que ainda não iniciamos a coleta das dailies do time. Entretanto,conseguimos automatizar a coleta das dailies, é uma tarefa muito repetitiva. Será através de um bot no Telegram. Agora todas as nossas dailies estão no repositório do projeto.
 

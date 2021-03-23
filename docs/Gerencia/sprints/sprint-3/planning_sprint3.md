@@ -12,8 +12,7 @@
 **Data de término:** 14/03/2021
 
 # **Planejamento**
-[TODO]
-
+Nessa sprint o desenvolvimento das histórias de usuário serão iniciadas, com issues de task atribuídas a elas. Deve-se fazer o documento modelo de prototipação para issues relacionadas as telas visuais.
 ## Sprint backlog
 
 #### Repositório de documentação
@@ -22,17 +21,17 @@
 |---|---|---|---|
 |[#53](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/53)| Documento de planejamento da sprint 3 | 1 | [Letícia Meneses](https://github.com/mbslet) |
 |[#54](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/54)| Documento de resultados da sprint 3 | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
-|[#54](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/54)| Documento de resultados da sprint 3 | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
+|[#21](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/21)| Protótipo de alta fidelidade | 1 | [Fabiana Ribas](https://github.com/FabianaRibas),[Pedro Lima](https://github.com/pedrolimass), [Philipe Serafim](https://github.com/philipeserafim), [Matheus Moreira](https://github.com/mateus-lm), [Iago Sousa](https://github.com/iasousa), [Wesley Santos](https://github.com/wesleysantos00) |
 
 #### Repositório de desenvolvimento
 
 | Issue | Título | Pontuação | Autor(es) |
 |---|---|---|---|
-|[#25](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/25)| Criar formulário para questionário |  | [Letícia Meneses](https://github.com/mbslet) |
-|[#54](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/54)| Documento de resultados da sprint 3 | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
-|[#54](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/54)| Documento de resultados da sprint 3 | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
+|[#24](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/24)| Criar Questionário para responder | 3 | [Iago Sousa](https://github.com/iasousa), [Wesley Santos](https://github.com/wesleysantos00) |
+|[#25](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/25)| Documento de resultados da sprint 3 | 3 | [Philipe Serafim](https://github.com/philipeserafim), [Pedro Lima](https://github.com/PedroLimass), [Mateus Moreira](https://github.com/mateus-lm) |
+|
 
-<b>Total de pontos planejados: 5</b>
+<b>Total de pontos planejados: 9</b>
 
 ## Pareamento
 

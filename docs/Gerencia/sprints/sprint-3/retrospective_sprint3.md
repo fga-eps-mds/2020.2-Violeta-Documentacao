@@ -1,0 +1,1 @@
+[#25](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/25)| Documento de resultados da sprint 3 | 3 | [Philipe Serafim](https://github.com/philipeserafim), [Pedro Lima](https://github.com/PedroLimass), [Mateus Moreira](https://github.com/mateus-lm) débito técnico - 3 pontos
