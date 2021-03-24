@@ -16,10 +16,11 @@ AgileEVM é uma implementação adaptada do EVM que usa os artefatos do Scrum co
 
 # Orçamento
 O orçamento total do projeto foi feito com base nos custos de:
-* Um aluno para a Universidade de Brasília
-* Aluguel de um computador para fins de desenvolvimento
-* Internet
-* Energia elétrica gasta nos computadores.
+
+- Um aluno para a Universidade de Brasília
+- Aluguel de um computador para fins de desenvolvimento
+- Internet
+- Energia elétrica gasta nos computadores.
 
 Para um melhor entendimento do orçamento total, a tabela abaixo apresenta os cálculos feitos para essa estimativa.
 
