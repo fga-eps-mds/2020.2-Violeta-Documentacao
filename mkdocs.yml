@@ -8,9 +8,14 @@ nav:
       - "Documento de arquitetura": "Projeto/doc_arquitetura.md"
       - "BD documentação": "Projeto/diagrama_de_relacionamento_bd.md"
       - "Documento de definição de medição": "Gerencia/documentacao/metododecontagem.md"
+      - "Agile-EVM": "Gerencia/documentacao/agile-evm.md"
       - "Folha de estilo": "Projeto/folha_de_estilo.md"
+      - "Project-Backlog": "Gerencia/documentacao/backlog.md"
+      - "Benchmarking": "Gerencia/documentacao/benchmarking.md"
       - "Roadmap" : "Gerencia/documentacao/roadmap.md"
       - "Identidade visual": "Projeto/identidade-visual.md"
+      - "Questionário": "Gerencia/documentacao/questionario.md"
+
       - Lean Inception:
         - "Agenda e Kick-off": "Gerencia/documentacao/Lean-inception/agenda.md"
         - "Visão do produto": "Gerencia/documentacao/Lean-inception/visao_do_projeto.md"
@@ -63,6 +68,9 @@ nav:
         - Sprint 3:
           - "Planejamento": "Gerencia/sprints/sprint-3/planning_sprint3.md" 
           - "Resultado": "Gerencia/sprints/sprint-3/retrospective_sprint3.md"
+        - Sprint 4:
+          - "Planejamento": "Gerencia/sprints/sprint-4/planning_sprint4.md" 
+          - "Resultado": "Gerencia/sprints/sprint-4/retrospective_sprint4.md"
     - Treinamentos: 
         - "Treinamento de EPS para MDS": "Gerencia/documentacao/treinamentos.md"
 extra_css:

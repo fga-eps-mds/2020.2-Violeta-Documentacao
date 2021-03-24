@@ -7,6 +7,7 @@ A prototipação de um software é a atividade de criação de protótipos de ap
 |---|---|---|---|
 | 06/03/2021| 0.1 |Criação do protótipo de média fidelidade | Fabiana L. V. P. Ribas, Letícia Meneses, Philipe Serafim, Pedro Henrique, Iago de Andrade, Mateus M., Wesley Santos |
 | 22/03/2021| 0.1 |Criação do documento | Ana Carolina Carvalho |
+| 23/03/2021| 0.2 |Atualização das imagens do prototipo | Fabiana L. V. P. Ribas |
 
 ## Protótipo de média fidelidade
 
@@ -21,13 +22,14 @@ Apesar do médio detalhamento, o time se preocupou em pensar nas telas responsiv
 
 Segue imagem do protótipo e link para acessá-lo com maior qualidade. 
 
-![Prototipo baixa fidelidade](../../img/prototipo-media1.png)
-![Prototipo baixa fidelidade](../../img/prototipo-media2.png)
-![Prototipo baixa fidelidade](../../img/prototipo-media3.png)
-![Prototipo baixa fidelidade](../../img/prototipo-media4.png)
-![Prototipo baixa fidelidade](../../img/prototipo-media5.png)
-![Prototipo baixa fidelidade](../../img/prototipo-media6.png)
-![Prototipo baixa fidelidade](../../img/prototipo-media7.png)
+![Prototipo media fidelidade](../../img/prototipo-media1.png)
+![Prototipo media fidelidade](../../img/prototipo-media2.png)
+![Prototipo media fidelidade](../../img/prototipo-media3.png)
+![Prototipo media fidelidade](../../img/prototipo-media4.png)
+![Prototipo media fidelidade](../../img/prototipo-media5.png)
+![Prototipo media fidelidade](../../img/prototipo-media6.png)
+![Prototipo media fidelidade](../../img/prototipo-media7.png)
+![Prototipo media fidelidade](../../img/prototipo-media8.png)
 
 ## Ferramenta
 
