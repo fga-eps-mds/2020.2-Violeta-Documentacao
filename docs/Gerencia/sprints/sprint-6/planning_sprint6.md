@@ -19,16 +19,13 @@ Nessa sprint o desenvolvimento será voltado para issues de débito técnicos da
 
 | Issue | Título | Pontuação | Autor(es) |
 |---|---|---|---|
-|[#27](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/27)| Levantamento das violências | 2 | [Wesley Santos](https://github.com/wesleysantos00), [Matheus Moreira](https://github.com/mateus-lm) |
-|[#28](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/28)| Cadastrar Depoimento | 2 |[Philipe Serafim](https://github.com/philipeserafim) |
-|[#29](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/29)| Cadastrar Depoimento | 3 |[Philipe Serafim](https://github.com/philipeserafim) |
 |[#37](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/37)| Criar página de apresentação para o Questionario | 3 | [Pedro Lima](https://github.com/pedrolimass) |
-|[#42](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/42)| Analisar fluxos e mostrar resultados | 4 | [Iago Sousa](https://github.com/iasousa) |
 |[#33](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/33)| Página de Profissionais Competentes | 3 | [Matheus Moreira](https://github.com/mateus-lm) |
-|[#31](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/31)| Pagina de Profissionais Competentes | 2 | [Wesley Santos](https://github.com/wesleysantos00) |
+|[#40](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/40)| Criar login de ADM por Token-Backend | 3 | [Wesley Santos](https://github.com/wesleysantos00), [Philipe Serafim](https://github.com/philipeserafim) |
+|[#32](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/40)| Criar área de ADM | 3 | [Matheus Moreira](https://github.com/mateus-lm), [Philipe Serafim](https://github.com/philipeserafim) |
 
 
-<b>Total de pontos planejados: 19 </b>
+<b>Total de pontos planejados: 12 </b>
 
 ## Pareamento
 
