@@ -22,7 +22,7 @@ Nessa sprint o desenvolvimento será voltado para issues de débito técnicos da
 |[#37](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/37)| Criar página de apresentação para o Questionario | 3 | [Pedro Lima](https://github.com/pedrolimass) |
 |[#33](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/33)| Página de Profissionais Competentes | 3 | [Matheus Moreira](https://github.com/mateus-lm) |
 |[#40](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/40)| Criar login de ADM por Token-Backend | 3 | [Wesley Santos](https://github.com/wesleysantos00), [Philipe Serafim](https://github.com/philipeserafim) |
-|[#32](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/40)| Criar área de ADM | 3 | [Matheus Moreira](https://github.com/mateus-lm), [Philipe Serafim](https://github.com/philipeserafim) |
+|[#27](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/27)| Levantamento das violências | 2 | [Wesley Santos](https://github.com/wesleysantos00), [Matheus Moreira](https://github.com/mateus-lm), [Iago Sousa](https://github.com/iasousa) |
 
 
 <b>Total de pontos planejados: 12 </b>
