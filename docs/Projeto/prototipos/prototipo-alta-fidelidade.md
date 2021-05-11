@@ -7,6 +7,7 @@ A prototipação de um software é a atividade de criação de protótipos de ap
 |---|---|---|---|
 | 07/03/2021| 0.1 |Criação do protótipo de alta fidelidade | Fabiana L. V. P. Ribas, Letícia Meneses, Philipe Serafim, Pedro Henrique, Iago de Andrade, Mateus M., Wesley Santos |
 | 22/03/2021| 0.1 |Criação do documento | Ana Carolina Carvalho |
+| 23/03/2021| 0.2 |Atualização do protótipo | Fabiana L. V. P. Ribas |
 
 ## Protótipo de alta fidelidade
 
@@ -22,10 +23,14 @@ Visando o alto detalhamento dos ícones e cores, o time se preocupou em pensar n
 
 Segue imagem do protótipo e link para acessá-lo com maior qualidade. 
 
-![Prototipo baixa fidelidade](../../img/prototipo-alta1.png)
-![Prototipo baixa fidelidade](../../img/prototipo-alta2.png)
-![Prototipo baixa fidelidade](../../img/prototipo-alta3.png)
-
+![Prototipo alta fidelidade](../../img/prototipo-alta-desktop-1.png)
+![Prototipo alta fidelidade](../../img/prototipo-alta-desktop-2.png)
+![Prototipo alta fidelidade](../../img/prototipo-alta-desktop-3.png)
+![Prototipo alta fidelidade](../../img/prototipo-alta-desktop-4.png)
+![Prototipo alta fidelidade](../../img/prototipo-alta-mobile-1.png)
+![Prototipo alta fidelidade](../../img/prototipo-alta-mobile-2.png)
+![Prototipo alta fidelidade](../../img/prototipo-alta-mobile-3.png)
+![Prototipo alta fidelidade](../../img/prototipo-alta-mobile-4.png)
 
 ## Ferramenta
 
