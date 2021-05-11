@@ -1,10 +1,10 @@
 ### Histórico da Revisão
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
-| 29/03/2021| 0.0 |Criação do documento | Letícia Meneses |
+| 04/04/2021| 0.0 |Criação do documento | Letícia Meneses |
 
 
-**Número da Sprint:** 5
+**Número da Sprint:** 7
 
 **Data de ínicio:** 05/04/2021
 
@@ -23,9 +23,10 @@ Nessa sprint o desenvolvimento será voltado para novas tasks de user story e is
 |[#33](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/33)| Página de Profissionais Competentes | 3 | [Matheus Moreira](https://github.com/mateus-lm) |
 |[#40](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/40)| Criar login de ADM por Token-Backend | 3 | [Wesley Santos](https://github.com/wesleysantos00), [Philipe Serafim](https://github.com/philipeserafim) |
 |[#34](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/34)| Aprovar depoimento | 3 | [Pedro Lima](https://github.com/pedrolimass), [Iago Sousa](https://github.com/iasousa) |
-[#30](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/30)| Criar login de ADM por Token-Backend | 3 | [Wesley Santos](https://github.com/wesleysantos00), [Philipe Serafim](https://github.com/philipeserafim) |
+[#30](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/30)| Cadastro de Profissionais | 3 | [Wesley Santos](https://github.com/wesleysantos00), [Philipe Serafim](https://github.com/philipeserafim) |
+[#32](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/32)| Criar área de ADM | 3 | [Philipe Serafim](https://github.com/philipeserafim) |
 
-<b>Total de pontos planejados: 12 </b>
+<b>Total de pontos planejados: 18 </b>
 
 ## Pareamento
 
