@@ -18,6 +18,7 @@ Levando em consideração o final do semestre e a complexidade das tarefas, não
 |---|---|---|---|
 |[#112](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/112)| Documento de planejamento da Sprint 10 | 1 | _Concluído_ |
 |[#113](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/113)| Documento de resultados da Sprint 10 | 1 | _Concluído_ |
+|[#102](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/102)| Documento de risco | 1 | _Não foi concluído_ |
 
 #### Repositório de desenvolvimento
 
@@ -27,7 +28,7 @@ Levando em consideração o final do semestre e a complexidade das tarefas, não
 |[#80](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/80)| Ajustar responsividade do site| 3 | _Concluído_ |
 |[#79](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/79)| Ajustar responsividade do site| 3 | _Não foi concluído_ |
 
-<b>Total de pontos planejados: 11 </b>
+<b>Total de pontos planejados: 12 </b>
 <b>Total de pontos entregues: 05 </b>
 
 ## Pareamento
