@@ -104,7 +104,10 @@ nav:
           - "Resultado": "Gerencia/sprints/sprint-5/retrospective_sprint5.md" 
         - Sprint 6:
           - "Planejamento": "Gerencia/sprints/sprint-6/planning_sprint6.md" 
-          - "Resultado": "Gerencia/sprints/sprint-6/retrospective_sprint6.md"                    
+          - "Resultado": "Gerencia/sprints/sprint-6/retrospective_sprint6.md" 
+        - Sprint 7:
+          - "Planejamento": "Gerencia/sprints/sprint-7/planning_sprint7.md" 
+          - "Resultado": "Gerencia/sprints/sprint-7/retrospective_sprint7.md"                              
     - Treinamentos: 
         - "Treinamento de EPS para MDS": "Gerencia/documentacao/treinamentos.md"
 extra_css:
