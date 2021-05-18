@@ -83,6 +83,7 @@ nav:
           - "27/04/2021": "Gerencia/dailies/27-04-2021.md"
           - "28/04/2021": "Gerencia/dailies/28-04-2021.md"
           - "29/04/2021": "Gerencia/dailies/29-04-2021.md"
+          
     - Sprints:
         - Sprint 0:
           - "Planejamento": "Gerencia/sprints/sprint-0/planning_sprint0.md" 
@@ -119,7 +120,10 @@ nav:
           - "Resultado": "Gerencia/sprints/sprint-10/retrospective_sprint10.md"  
         - Sprint 11:
           - "Planejamento": "Gerencia/sprints/sprint-11/planning_sprint11.md" 
-          - "Resultado": "Gerencia/sprints/sprint-11/retrospective_sprint11.md"                                                              
+          - "Resultado": "Gerencia/sprints/sprint-11/retrospective_sprint11.md" 
+        - Sprint 12:
+          - "Planejamento": "Gerencia/sprints/sprint-12/planning_sprint12.md" 
+          - "Resultado": "Gerencia/sprints/sprint-12/retrospective_sprint12.md"                                                              
     - Treinamentos: 
         - "Treinamento de EPS para MDS": "Gerencia/documentacao/treinamentos.md"
 extra_css:
