@@ -15,6 +15,13 @@ Nessa sprint o desenvolvimento será voltado para novas tasks de user story e is
 
 ## Sprint backlog
 
+#### Repositório de documentação
+
+| Issue | Título | Pontuação | Autor(es) |
+|---|---|---|---|
+|[#105](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/105)| Documento de planejamento da Sprint 7 | 1 | [Letícia Meneses](https://github.com/mbslet) |
+|[#106](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/106)| Documento de resultados da Sprint 7 | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
+
 #### Repositório de desenvolvimento
 
 | Issue | Título | Pontuação | Autor(es) |

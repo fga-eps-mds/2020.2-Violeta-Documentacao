@@ -20,8 +20,8 @@ Nessa sprint o desenvolvimento será voltado para issues de débito técnicos da
 
 | Issue | Título | Pontuação | Autor(es) |
 |---|---|---|---|
-|[#57](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/57)| Documento de planejamento da Sprint 5 | 1 | [Letícia Meneses](https://github.com/mbslet) |
-|[#58](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/58)| Documento de resultados da Sprint 5 | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
+|[#103](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/103)| Documento de planejamento da Sprint 6 | 1 | [Letícia Meneses](https://github.com/mbslet) |
+|[#104](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/104)| Documento de resultados da Sprint 6 | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
 
 #### Repositório de desenvolvimento
 
