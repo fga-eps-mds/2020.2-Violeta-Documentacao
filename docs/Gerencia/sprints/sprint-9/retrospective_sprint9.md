@@ -15,14 +15,14 @@ Nesta sprint conseguimos recuperar as atividades atrasadas. O time está mais em
 
 #### Repositório de documentação
 
-| Issue | Título | Pontuação | Autor(es) |
+| Issue | Título | Pontuação | Status |
 |---|---|---|---|
 |[#110](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/110)| Documento de planejamento da Sprint 9 | 1 | _Concluído_ |
 |[#111](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/111)| Documento de resultados da Sprint 9 | 1 | _Concluído_ |
 
 #### Repositório de desenvolvimento
 
-| Issue | Título | Pontuação | Autor(es) |
+| Issue | Título | Pontuação | Status |
 |---|---|---|---|
 |[#27](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/27)| Levantamento das violências | 2 | _Concluído_ |
 |[#28](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/28)| Cadastrar Depoimento | 2 |_Concluído_ |
