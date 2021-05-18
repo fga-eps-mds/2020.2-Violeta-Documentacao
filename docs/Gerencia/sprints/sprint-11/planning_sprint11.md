@@ -1,19 +1,26 @@
 ### Histórico da Revisão
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
-| 04/04/2021| 0.0 |Criação do documento | Letícia Meneses |
+| 02/05/2021| 0.0 |Criação do documento | Letícia Meneses |
 
 
-**Número da Sprint:** 9
+**Número da Sprint:** 11
 
-**Data de ínicio:** 19/04/2021
+**Data de ínicio:** 03/05/2021
 
-**Data de término:** 25/04/2021
+**Data de término:** 09/05/2021
 
 # **Planejamento**
 Nessa sprint o desenvolvimento será voltado para novas tasks de user story e issues de débito técnicos da sprint anterior, mensurando assim a apriorização do backlog.
 
 ## Sprint backlog
+
+## Repositório de documentação
+
+| Issue | Título | Pontuação | Autor(es) |
+|---|---|---|---|
+|[#114](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/114)| Documento de planejamento da Sprint 11 | 1 | [Letícia Meneses](https://github.com/mbslet) |
+|[#115](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/115)| Documento de resultados da Sprint 11 | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
 
 #### Repositório de desenvolvimento
 
@@ -23,7 +30,7 @@ Nessa sprint o desenvolvimento será voltado para novas tasks de user story e is
 |[#80](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/80)| Ajustar responsividade do site| 3 |[Wesley Santos](https://github.com/wesleysantos00) , [Matheus Moreira](https://github.com/mateus-lm)  |
 |[#79](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/79)| Ajustar responsividade do site| 3 |[Wesley Santos](https://github.com/wesleysantos00) , [Matheus Moreira](https://github.com/mateus-lm)  |
 
-<b>Total de pontos planejados: 9 </b>
+<b>Total de pontos planejados: 11 </b>
 
 ## Pareamento
 
