@@ -21,11 +21,10 @@ Nessa sprint o desenvolvimento será voltado para novas tasks de user story e is
 |---|---|---|---|
 |[#37](https://github.com/fga-eps-mds/2020.2-violeta-desenvolvimento/issues/37)| Criar página de apresentação para o Questionario | 3 | [Pedro Lima](https://github.com/pedrolimass) |
 |[#82](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/82)| Ajustar responsividade do site| - | [Pedro Lima](https://github.com/pedrolimass), [Matheus Moreira](https://github.com/mateus-lm)  |
-[#32](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/81)| Criar área de ADM | - | [Philipe Serafim](https://github.com/philipeserafim) |
 [#81](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/38)| Documentar Endpoints - Swagger | - | [Philipe Serafim](https://github.com/philipeserafim), [Iago Sousa](https://github.com/iasousa) |
-[#75](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/75)| Cadastrar frases motivacionais | - | [Philipe Serafim](https://github.com/philipeserafim), [Matheus Moreira](https://github.com/mateus-lm) |
-[#77](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/77)| Testes de Front-End - Frases Motivacionais | - | [Philipe Serafim](https://github.com/philipeserafim), [Wesley Santos](https://github.com/wesleysantos00) |
-<b>Total de pontos planejados: 3 </b>
+[#75](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/75)| Testes de Front-End - Profissionais Competentes | 3 | [Philipe Serafim](https://github.com/philipeserafim), [Matheus Moreira](https://github.com/mateus-lm) |
+[#77](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/77)| Testes de Front-End - Frases Motivacionais | 3 | [Philipe Serafim](https://github.com/philipeserafim), [Wesley Santos](https://github.com/wesleysantos00) |
+<b>Total de pontos planejados: 9 </b>
 
 ## Pareamento
 
