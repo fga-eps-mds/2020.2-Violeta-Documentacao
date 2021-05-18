@@ -68,6 +68,21 @@ nav:
           - "08/04/2021": "Gerencia/dailies/08-04-2021.md"
           - "09/04/2021": "Gerencia/dailies/09-04-2021.md"
           - "10/04/2021": "Gerencia/dailies/10-04-2021.md"
+          - "11/04/2021": "Gerencia/dailies/11-04-2021.md"
+          - "12/04/2021": "Gerencia/dailies/12-04-2021.md"
+          - "13/04/2021": "Gerencia/dailies/13-04-2021.md"
+          - "14/04/2021": "Gerencia/dailies/14-04-2021.md"
+          - "15/04/2021": "Gerencia/dailies/15-04-2021.md"
+          - "16/04/2021": "Gerencia/dailies/16-04-2021.md"
+          - "17/04/2021": "Gerencia/dailies/17-04-2021.md"
+          - "18/04/2021": "Gerencia/dailies/18-04-2021.md"
+          - "19/04/2021": "Gerencia/dailies/19-04-2021.md"
+          - "21/04/2021": "Gerencia/dailies/21-04-2021.md"
+          - "25/04/2021": "Gerencia/dailies/25-04-2021.md"
+          - "26/04/2021": "Gerencia/dailies/26-04-2021.md"
+          - "27/04/2021": "Gerencia/dailies/27-04-2021.md"
+          - "28/04/2021": "Gerencia/dailies/28-04-2021.md"
+          - "29/04/2021": "Gerencia/dailies/29-04-2021.md"
     - Sprints:
         - Sprint 0:
           - "Planejamento": "Gerencia/sprints/sprint-0/planning_sprint0.md" 
@@ -84,6 +99,24 @@ nav:
         - Sprint 4:
           - "Planejamento": "Gerencia/sprints/sprint-4/planning_sprint4.md" 
           - "Resultado": "Gerencia/sprints/sprint-4/retrospective_sprint4.md"
+        - Sprint 5:
+          - "Planejamento": "Gerencia/sprints/sprint-5/planning_sprint5.md" 
+          - "Resultado": "Gerencia/sprints/sprint-5/retrospective_sprint5.md" 
+        - Sprint 6:
+          - "Planejamento": "Gerencia/sprints/sprint-6/planning_sprint6.md" 
+          - "Resultado": "Gerencia/sprints/sprint-6/retrospective_sprint6.md" 
+        - Sprint 7:
+          - "Planejamento": "Gerencia/sprints/sprint-7/planning_sprint7.md" 
+          - "Resultado": "Gerencia/sprints/sprint-7/retrospective_sprint7.md" 
+        - Sprint 8:
+          - "Planejamento": "Gerencia/sprints/sprint-8/planning_sprint8.md" 
+          - "Resultado": "Gerencia/sprints/sprint-8/retrospective_sprint8.md" 
+        - Sprint 9:
+          - "Planejamento": "Gerencia/sprints/sprint-9/planning_sprint9.md" 
+          - "Resultado": "Gerencia/sprints/sprint-9/retrospective_sprint9.md"
+        - Sprint 10:
+          - "Planejamento": "Gerencia/sprints/sprint-10/planning_sprint10.md" 
+          - "Resultado": "Gerencia/sprints/sprint-10/retrospective_sprint10.md"                                                    
     - Treinamentos: 
         - "Treinamento de EPS para MDS": "Gerencia/documentacao/treinamentos.md"
 extra_css:
