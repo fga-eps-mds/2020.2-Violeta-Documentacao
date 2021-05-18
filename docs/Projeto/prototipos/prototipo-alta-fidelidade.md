@@ -8,6 +8,7 @@ A prototipação de um software é a atividade de criação de protótipos de ap
 | 07/03/2021| 0.1 |Criação do protótipo de alta fidelidade | Fabiana L. V. P. Ribas, Letícia Meneses, Philipe Serafim, Pedro Henrique, Iago de Andrade, Mateus M., Wesley Santos |
 | 22/03/2021| 0.1 |Criação do documento | Ana Carolina Carvalho |
 | 23/03/2021| 0.2 |Atualização do protótipo | Fabiana L. V. P. Ribas |
+| 17/05/2021| 0.3 |Atualização do protótipo | Fabiana L. V. P. Ribas |
 
 ## Protótipo de alta fidelidade
 
@@ -35,6 +36,19 @@ Segue imagem do protótipo e link para acessá-lo com maior qualidade.
 ## Ferramenta
 
 A ferramenta usada foi o Figma. Figma é um editor gráfico de vetor e prototipagem de projetos de design baseado principalmente no navegador web.
-A ferramenta escolhida nos deu todo o apoio que precisávamos neste momento do projeto. Onde contamos com mais recursos visuais. 
+A ferramenta escolhida nos deu todo o apoio que precisávamos neste momento do projeto. Onde contamos com mais recursos visuais.
+
+
+## Atualização
+
+Para atender aos critérios de usabilidade e ao prazo de desenvolvimento, foi necessário realizar modificações no modulo do questionário. Segue abaixo protótipo atualizado do questionário
+
+![Prototipo alta fidelidade](../../img/prototipo-alta-desktop-atualizacao-1.png)
+
+No decorrer do desenvolvimento, foi necessário prototipar duas novas telas para completar o fluxo. Uma tela de login e outra de adm da aplicação. Ambas sanando a necessidade dos administradores da aplicação.
+
+![Prototipo alta fidelidade](../../img/prototipo-alta-desktop-atualizacao-login.png)
+![Prototipo alta fidelidade](../../img/prototipo-alta-desktop-atualizacao-adm.png)
+
 
 [Protótipo de alta fidelidade](https://www.figma.com/file/GvNiDz8VEmTypTAkxlIHrB/Alta-fidelidade-Violeta?node-id=0%3A1)
