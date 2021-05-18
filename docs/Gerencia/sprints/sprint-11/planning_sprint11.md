@@ -21,6 +21,7 @@ Nessa sprint o desenvolvimento será voltado para novas tasks de user story e is
 |---|---|---|---|
 |[#114](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/114)| Documento de planejamento da Sprint 11 | 1 | [Letícia Meneses](https://github.com/mbslet) |
 |[#115](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/115)| Documento de resultados da Sprint 11 | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
+|[#102](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/102)| Documento de risco | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
 
 #### Repositório de desenvolvimento
 
@@ -30,7 +31,7 @@ Nessa sprint o desenvolvimento será voltado para novas tasks de user story e is
 |[#80](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/80)| Ajustar responsividade do site| 3 |[Wesley Santos](https://github.com/wesleysantos00) , [Matheus Moreira](https://github.com/mateus-lm)  |
 |[#79](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/79)| Ajustar responsividade do site| 3 |[Wesley Santos](https://github.com/wesleysantos00) , [Matheus Moreira](https://github.com/mateus-lm)  |
 
-<b>Total de pontos planejados: 11 </b>
+<b>Total de pontos planejados: 12 </b>
 
 ## Pareamento
 
