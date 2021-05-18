@@ -1,19 +1,26 @@
 ### Histórico da Revisão
 | Data | Versão | Descrição | Autor |
 |---|---|---|---|
-| 04/04/2021| 0.0 |Criação do documento | Letícia Meneses |
+| 25/04/2021| 0.0 |Criação do documento | Letícia Meneses |
 
 
-**Número da Sprint:** 9
+**Número da Sprint:** 10
 
-**Data de ínicio:** 19/04/2021
+**Data de ínicio:** 26/04/2021
 
-**Data de término:** 25/04/2021
+**Data de término:** 02/05/2021
 
 # **Planejamento**
 Nessa sprint o desenvolvimento será voltado para novas tasks de user story e issues de débito técnicos da sprint anterior, mensurando assim a apriorização do backlog.
 
 ## Sprint backlog
+
+#### Repositório de documentação
+
+| Issue | Título | Pontuação | Autor(es) |
+|---|---|---|---|
+|[#112](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/112)| Documento de planejamento da Sprint 10 | 1 | [Letícia Meneses](https://github.com/mbslet) |
+|[#113](https://github.com/fga-eps-mds/2020.2-Violeta-Documentacao/issues/113)| Documento de resultados da Sprint 10 | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
 
 #### Repositório de desenvolvimento
 
@@ -24,11 +31,12 @@ Nessa sprint o desenvolvimento será voltado para novas tasks de user story e is
 [#81](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/38)| Documentar Endpoints - Swagger | - | [Philipe Serafim](https://github.com/philipeserafim), [Iago Sousa](https://github.com/iasousa) |
 [#75](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/75)| Testes de Front-End - Profissionais Competentes | 3 | [Philipe Serafim](https://github.com/philipeserafim), [Matheus Moreira](https://github.com/mateus-lm) |
 [#77](https://github.com/fga-eps-mds/2020.2-Violeta-Desenvolvimento/issues/77)| Testes de Front-End - Frases Motivacionais | 3 | [Philipe Serafim](https://github.com/philipeserafim), [Wesley Santos](https://github.com/wesleysantos00) |
-<b>Total de pontos planejados: 9 </b>
+
+<b>Total de pontos planejados: 11 </b>
 
 ## Pareamento
 
-<iframe weidth="100%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSUvF3lwINiA2gmoZeLfAFfI-sgInnqEVf4oq7nkh3joRHfGQgwIc63ij0wCB5oJzGtZirY3eT-hLjK/pubhtml?gid=1221651040&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe weidth="100%" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSUvF3lwINiA2gmoZeLfAFfI-sgInnqEVf4oq7nkh3joRHfGQgwIc63ij0wCB5oJzGtZirY3eT-hLjK/pubhtml?gid=1849644167&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
 
 ## Papéis
