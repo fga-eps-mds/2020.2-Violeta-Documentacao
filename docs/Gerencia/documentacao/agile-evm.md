@@ -89,9 +89,25 @@ Core i7
 
 # Estimativa de Custos
 
-A tabela abaixo conta todos os dados necessários para a elaboração do Agile EVM, considerando o número de sprints até a Release 1, número de dias por sprint, total de pontos estimados para a R1 e R2 e quantos deles foram realizados, e o orçamento toal do projeto levanto em consideração os custos levantados acima.
+A tabela abaixo conta todos os dados necessários para a elaboração do Agile EVM, considerando o número de sprints até a Release 1 e Release 2, número de dias por sprint, total de pontos estimados para a R1 e R2 e quantos deles foram realizados, e o orçamento toal do projeto levanto em consideração os custos levantados acima.
 
-![Agile-EVM](../../img/agile-evm.png)
+*Release 1*
+<br>
+
+![Agile-EVM](../../img/agile-evm-R1.png)
+
+<br>
+
+*Release 2*
+
+![Agile-EVM](../../img/agile-evm-R2.png)
+
+<br>
+
+*Gráfico Release 2*
+<br>
+
+![Agile-EVM](../../img/agile-evm-graficoR2.png)
 
 
 Abaixo segue a tabela de sigla necessárias para entender todos os cálculos e custos estimados no planilha.
