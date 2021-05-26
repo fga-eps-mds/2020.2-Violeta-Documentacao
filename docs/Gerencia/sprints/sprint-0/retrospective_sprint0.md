@@ -44,8 +44,8 @@ De ponto negativo temos que ainda não iniciamos a coleta das dailies do time. C
 |[#17](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/17)| Documento de planejamento da Sprint 0 | 1 | _Concluído_ |
 |[#18](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/18)| Documento de resultado da Sprint 0 | 1 | _Concluído_ |
 
-<b>Total de pontos planejados: 21</b></br>
-<b>Total de pontos entregues: 21</b>
+<b>Total de pontos planejados: 23</b></br>
+<b>Total de pontos entregues: 23</b>
 
 ## Pareamento
 
