@@ -44,7 +44,7 @@ Essa sprint inicial do projeto é responsável por definir pontos muito importan
 |[#17](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/17)| Documento de planejamento da Sprint 0 | 1 | [Letícia Meneses](https://github.com/mbslet) |
 |[#18](https://github.com/fga-eps-mds/2020.2-violeta-documentacao/issues/18)| Documento de resultado da Sprint 0 | 1 | [Ana Carolina Carvalho](https://github.com/anacarolcs) |
 
-<b>Total de pontos planejados: 21</b>
+<b>Total de pontos planejados: 23</b>
 
 ## Pareamento
 
